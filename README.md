@@ -1,11 +1,17 @@
 <hr>
-<h1 align="center"> Hello everyone, I'm Kayllon and i'm a beginning programmer </h1>
-<p align="center"> if you who are readin know something about programming and are available to teach me, call me at will. </p>
+<h2 align="center"> Ola a todos, o meu nome é Kayllon </h2>
+<p align="center"> Se voce que esta lendo entende de algo relacionado a programção e esteja disponivel para ensinar por favor, me contacte! </p>
 
 <div align="center"> 
 
-![Status](https://github-readme-stats.vercel.app/api?username=KaynNoBakka&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true) 
+![Stats](https://github-readme-stats.vercel.app/api?username=KaynNoBakka&theme=radical&show_icons=true&count_private=true&include_all_commits=true) 
 
 </div>
 
+## &#x1f4c8; Estatisticas no GitHub
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaynNoBakka&show_icons=true&locale=pt-br&layout=compact&theme=radical" alt="KaynNoBakka" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaynNoBakka&show_icons=true&locale=pt-br&theme=radical" alt="KaynNoBakka" /></p>
+ 
 <hr>
