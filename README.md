@@ -13,5 +13,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaynNoBakka&show_icons=true&locale=pt-br&layout=compact&theme=radical" alt="KaynNoBakka" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaynNoBakka&show_icons=true&locale=pt-br&theme=radical" alt="KaynNoBakka" /></p>
- 
+
+![alt README header](https://github.com/KaynNoBakka/KaynNoBakka/blob/Main/wallpaper-flare.png?raw=true)</a>
+
 <hr>
