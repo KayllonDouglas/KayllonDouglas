@@ -14,6 +14,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaynNoBakka&show_icons=true&locale=pt-br&theme=radical" alt="KaynNoBakka" /></p>
 
-![alt README header](https://github.com/KaynNoBakka/KaynNoBakka/blob/Main/wallpaper-flare.png?raw=true)</a>
+<hr>
+
+<h2 align="center"> Shoujo Shuumatsu Ryokou </h2>
+
+![alt README header](https://github.com/KaynNoBakka/KaynNoBakka/blob/Main/wallpaperflare.com_wallpaper.jpg?raw=true)
 
 <hr>
