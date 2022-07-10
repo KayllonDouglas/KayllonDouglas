@@ -1,6 +1,17 @@
-
-![Stats](https://github-readme-stats.vercel.app/api?username=KayllonDouglas&theme=radical&show_icons=true&count_private=true&include_all_commits=true) 
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KayllonDouglas&show_icons=true&locale=pt-br&layout=compact&theme=radical" alt="KayllonDouglas" /></p>
-
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KayllonDouglas&theme=radical" alt="KayllonDouglas" /></p>
+<div>
+  <img align="right" width="200" src="https://wallpapercave.com/uwp/uwp673811.gif" alt="avatar">
+  <h1>Kayllon
+      Douglas</h1>
+  <p align="left">
+     Heyo everyone, i'm a <strong>beginner developer</strong> learning Java, 
+     i have 19 years old, and i love high-level and low-level programming languages.
+  </p>
+  <p align="left">
+    📝
+    <strong>I know: </strong> Java.
+  </p>
+  <p align="left">
+    :leaves:
+    <strong>Tools:</strong> Intellij and Neovim.
+  </p>
+</div>
