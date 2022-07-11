@@ -1,7 +1,6 @@
 <div>
   <img align="right" width="200" src="https://wallpapercave.com/uwp/uwp673811.gif" alt="avatar">
-  <h1>Kayllon
-      Douglas</h1>
+  <h1>Kayllon Douglas</h1>
   <p align="left">
      Heyo everyone, i'm a <strong>beginner developer</strong> learning Java, 
      i have 19 years old, and i love high-level and low-level programming languages
